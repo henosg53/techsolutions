@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/techsolutions/static/css/main.b229d93b.css",
+    "main.js": "/techsolutions/static/js/main.f78cc751.js",
+    "static/js/787.6c34ffe1.chunk.js": "/techsolutions/static/js/787.6c34ffe1.chunk.js",
+    "static/media/2.png": "/techsolutions/static/media/2.c9d4b358628e4b4d6a77.png",
+    "static/media/ArchivoBlack-Regular.ttf": "/techsolutions/static/media/ArchivoBlack-Regular.756e4893baa794d19b24.ttf",
+    "static/media/DMSans-Regular.ttf": "/techsolutions/static/media/DMSans-Regular.5d56aeb9225a4059996e.ttf",
+    "static/media/pattern.png": "/techsolutions/static/media/pattern.ca3a037e28163810a8e4.png",
+    "index.html": "/techsolutions/index.html",
+    "static/media/TickMark.svg": "/techsolutions/static/media/TickMark.2f881f2b951a26b1887c.svg",
+    "main.b229d93b.css.map": "/techsolutions/static/css/main.b229d93b.css.map",
+    "main.f78cc751.js.map": "/techsolutions/static/js/main.f78cc751.js.map",
+    "787.6c34ffe1.chunk.js.map": "/techsolutions/static/js/787.6c34ffe1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b229d93b.css",
+    "static/js/main.f78cc751.js"
+  ]
+}
